@@ -22,6 +22,6 @@
 
 # Screenshots
 
-<img src="images/hypy.gif">
+<img src="Hookshot Hooligans/images/hypy.gif">
 
 
