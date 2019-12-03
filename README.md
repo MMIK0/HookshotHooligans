@@ -1,8 +1,8 @@
 # HookshotHooligans
 
-<img src="Hookshot Hooligans/images/hypy.gif" width= "100">
-<img src="Hookshot Hooligans/images/sling.png" width= "100">
-<img src="Hookshot Hooligans/images/nightsky.png" width= "100">
+<img src="Hookshot Hooligans/images/hypy.gif" width= "300">
+<img src="Hookshot Hooligans/images/sling.png" width= "300">
+<img src="Hookshot Hooligans/images/nightsky.png" width= "300">
 
 ## For gameplay:
 ### Demo is done
