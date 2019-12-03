@@ -1,27 +1,21 @@
 # HookshotHooligans
 
+<img src="Hookshot Hooligans/images/hypy.gif" width= "100">
+<img src="Hookshot Hooligans/images/sling.png" width= "100">
+<img src="Hookshot Hooligans/images/nightsky.png" width= "100">
 
-*This is my first bigger Unity project that i made for my school course. I am currently still updating it and developing it further.
-
-## For full game:
+## For gameplay:
+### Demo is done
 * Check out the versioning
 * Download the zip
 * Extract the folder
-* Open the NowThisIsPod.exe
+* Open the Hookshot Hooligans.exe
 * Enjoy!
-
 
 ## Versioning:
 ### Newest version
-* [Version 1.0.5](https://github.com/MMIK0/NowThisIsPod/releases/tag/v1.0.5)
-
+* [Demo]()
 
 # Built using
 * Visual Studio Code
 * Unity
-
-# Screenshots
-
-<img src="Hookshot Hooligans/images/hypy.gif">
-
-
