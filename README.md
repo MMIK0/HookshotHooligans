@@ -1,8 +1,8 @@
 # HookshotHooligans
 
-<img src="Hookshot Hooligans/images/hypy.gif" width= "300">
-<img src="Hookshot Hooligans/images/sling.png" width= "300">
-<img src="Hookshot Hooligans/images/nightsky.png" width= "300">
+<img src="Hookshot Hooligans/images/hypy.gif" width= "500">
+<img src="Hookshot Hooligans/images/sling.png" width= "500">
+<img src="Hookshot Hooligans/images/nightsky.png" width= "500">
 
 ## For gameplay:
 ### Demo is done
@@ -17,5 +17,5 @@
 * [Demo]()
 
 # Built using
-* Visual Studio Code
+* Visual Studio
 * Unity
